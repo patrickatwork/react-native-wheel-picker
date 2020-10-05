@@ -2,6 +2,8 @@
 [![npm version](http://img.shields.io/npm/v/react-native-wheel-picker.svg?style=flat-square)](https://npmjs.org/package/react-native-wheel-picker "View this project on npm")
 [![npm version](http://img.shields.io/npm/dm/react-native-wheel-picker.svg?style=flat-square)](https://npmjs.org/package/react-native-wheel-picker "View this project on npm")
 
+# Personal Use
+
 ## Introduction
 Cross platform Picker component based on React-native.
 
