@@ -36,17 +36,17 @@ class WheelCurvedPicker extends React.Component {
 
 		textColor: ColorPropType,
 
-		textSize: PropTypes.number,
+// 		textSize: PropTypes.number,
 
 		itemStyle: PropTypes.object,
 
-		itemSpace: PropTypes.number,
+// 		itemSpace: PropTypes.number,
 
 		onValueChange: PropTypes.func,
 
-		selectedValue: PropTypes.any,
+// 		selectedValue: PropTypes.any,
 
-		selectedIndex: PropTypes.number,
+// 		selectedIndex: PropTypes.number,
 	}
 
 	constructor(props){
@@ -98,8 +98,8 @@ class WheelCurvedPicker extends React.Component {
 
 class Item extends React.Component {
 	propTypes: {
-		value: React.PropTypes.any, // string or integer basically
-		label: React.PropTypes.string,
+//		value: React.PropTypes.any, // string or integer basically
+//		label: React.PropTypes.string,
 	}
 
 	render () {
